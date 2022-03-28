@@ -9,4 +9,4 @@
 - Reporting feature
 
 [GitHub](https://github.com/ubaifadhli/tetikus-core)
-[Get Started](#docsify)
+[Get Started](getting-started.md)
