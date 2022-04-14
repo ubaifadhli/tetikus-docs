@@ -23,9 +23,6 @@ Then insert Tetikus dependency inside `<dependencies>` element. You may adjust t
 <dependency>
     <groupId>com.github.ubaifadhli</groupId>
     <artifactId>tetikus-core</artifactId>
-    <version>0.1.11</version>
+    <version>0.2.1</version>
 </dependency>
 ```
-
-
-
