@@ -8,7 +8,9 @@ Tetikus is developed to complete author's undergraduate final project requiremen
 - Parallel execution by default
 - Driver configuration by JSON
 - Page object class
+- Reporting
+- Browser session cache option
+- Multiple properties configuration
 
 # WIP Features
-- Reporting
 - Start Appium by code
